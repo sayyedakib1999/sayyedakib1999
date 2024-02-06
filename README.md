@@ -9,13 +9,18 @@
 
 🟡 As a freelancer, I've successfully completed three jobs. 
 
-🟡 Beyond tech, my interests include photography, videography, and graphic design. 
+🟡 Beyond tech, my interests include photography 📷, videography🎥 & graphic design 📰. 
 
  #AWS #Linux #Developer #TechEnthusiast 🚀
 
  Social Media Links 👇🏻,
+ 
+ [Email 📧](sayyedakib104@gmail.com)
 
  [LinkdIn](https://www.linkedin.com/in/akib-sayyed/)
+ 
  [Twitter (X)](https://twitter.com/SayyedAkib99)
+ 
  [Instagram](https://www.instagram.com/akibsayyed104/)
+ 
  [Threads](https://www.threads.net/@akibsayyed104)
