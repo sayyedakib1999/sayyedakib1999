@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/D4D03AQF4NizcZ3vsww/profile-displayphoto-shrink_800_800/0/1679465351065?e=2147483647&v=beta&t=cwlQLeHl_JzB1Q-4pX4x3B8Al0vyJK2aJj_zVRMW9Hg" align="center" height="" width="200" />
-</div>  
-  
-
 ### <div align="center">I'm Akib, a full-time Front end & Cloud Developer, freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
