@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to Front End & Cloud  related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I Learn While Making Projects 💻  
   
 
 <br/>  
