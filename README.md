@@ -1,12 +1,14 @@
 # 💫 About Me:
 
-🔭 I’m currently working As freelancer
+🔭 I’m currently freelancing  or as I like to call it, “working for the best boss ever (me).” 🕶️💼
 
-📚 Also Having Good knowledge of AWS Cloud ☁️ & Linux 🐧
+📚 I dabble in AWS Cloud ☁️ and Linux 🐧  because what’s life without juggling virtual servers and terminal commands like a tech ninja? 🥷
 
-❓ Ask me about anything related to Front End & Cloud related technologies
+❓ Got questions about Front-End or Cloud? Go ahead, shoot! I’m basically Google, but with a better sense of humor and fewer ads. 😂
 
-⚡ Fun fact: I Learn While Making Projects 💻
+⚡ Fun fact: I learn by making projects 💻  AKA, breaking things first and fixing them later (because who doesn’t love a little chaos before the “Eureka” moment?). 🛠️🔥
+
+Let’s make something awesome together just don’t ask me to debug Internet Explorer. That’s where I draw the line. 🚫🕸️
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sayyedakib) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61550583021645) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akibsayyed104/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akib-sayyed/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sayyedakib104) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/sayyedakib1999/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Sayyed-Akib-2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/akibsayyed1999/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/24820811/sayyed-akib) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/akib104) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/SayyedAkib99) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCaelSDTMHMULSlhvz2bkpjQ) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/sayyedakib1999) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@https://mastodon.social/@akibsayyed1999) 
